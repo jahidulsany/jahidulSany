@@ -24,7 +24,7 @@ As a front-end enthusiast, I thrive on crafting intuitive and dynamic user inter
 <h2>:hammer_and_wrench: Skills And Expertises:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,bootstrap,tailwindcss,js,ts,react,redux,nextjs,nodejs,expressjs,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,js,ts,react,redux,nextjs,nodejs,expressjs,mongodb,firebase,figma,git&theme=light" />
   </a>
 </p>
 
