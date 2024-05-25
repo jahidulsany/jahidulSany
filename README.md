@@ -21,14 +21,14 @@
 My expertise lies in creating seamless and interactive web applications using modern technologies. 
 As a front-end enthusiast, I thrive on crafting intuitive and dynamic user interfaces. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying the scenic beauty of England.
 
-<h2>:hammer_and_wrench: Skills And Expertises:</h2>
+<h2>🛠️ Skills And Expertises:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,js,ts,react,redux,nextjs,nodejs,expressjs,mongodb,firebase,figma,git&theme=light" />
   </a>
 </p>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahidulSany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JahidulSany&theme=dark&background=000000)](https://git.io/streak-stats)
