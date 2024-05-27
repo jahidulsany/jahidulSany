@@ -31,9 +31,31 @@ As a front-end enthusiast, I thrive on crafting intuitive and dynamic user inter
 ### 🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JahidulSany&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JahidulSany&theme=dark&background=000000)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JahidulSany&layout=compact&theme=vision-friendly-dark&show_icons=true)
 
+### 👨🏻‍🎓 Education
+
+1. M.Sc. in Computing and Information Systems  
+   University of Greenwich
+   London, England.
+3. B.Sc. in Computer Science & Engineering  
+   Leading University  
+   Sylhet, Bangladesh.
+
+<!-- education section ends here  -->
+
+<!-- my languages section starts here  -->
+
+### 💬 Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+  <br />
+
+### 🚀 Current Status:
 
 - 🔭 I’m currently working on a Next.js Project.
 - 🌱 I’m currently learning Next.js
+- 🕵️‍♂️ I'm eagerly looking for a web/software developer role
 
