@@ -26,7 +26,7 @@ As a front-end enthusiast, I thrive on crafting intuitive and dynamic user inter
 <h2>🛠️ Skills And Expertises:</h2>
 <p align="left">
   <a href="https://jahidulsany.co.uk">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,tailwindcss,js,ts,react,redux,nextjs,nodejs,expressjs,mongodb,firebase,figma,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,ts,react,redux,nextjs,nodejs,expressjs,mongodb,firebase,figma,git&theme=light" />
   </a>
 </p>
 
