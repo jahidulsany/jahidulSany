@@ -57,7 +57,7 @@ As a front-end enthusiast, I thrive on crafting intuitive and dynamic user inter
 
 ### 🚀 Current Status:
 
-- 🔭 I’m currently working on a Next.js Project.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning NextJS
+- 🔭 I’m currently working on a NextJS Project.
 - 🕵️‍♂️ I'm eagerly looking for a web/software developer role
 
