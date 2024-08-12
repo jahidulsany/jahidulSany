@@ -19,7 +19,7 @@
  </div>
 </div>
 
-<strong>I'm Jahidul Sany</strong>, a passionate <strong>Fullstack Developer 👨‍💻</strong> based in <strong>England, UK</strong>.
+<strong>I'm Jahidul Sany</strong>, an aspiring <strong>Fullstack Developer 👨‍💻</strong> based in <strong>England, UK</strong>.
 My expertise lies in creating seamless and interactive web applications using modern technologies. 
 As a front-end enthusiast, I thrive on crafting intuitive and dynamic user interfaces. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying the scenic beauty of England.
 
