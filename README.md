@@ -19,7 +19,7 @@
  </div>
 </div>
 
-<strong>I'm Jahidul Sany</strong>, an aspiring <strong>Fullstack Developer 👨‍💻</strong> based in <strong>England, UK</strong>.
+<strong>I'm Jahidul Sany</strong>, <strong>Software Engineer and Cloud Architect 👨‍💻</strong> based in <strong>England, UK</strong>.
 I’m a Software Engineer passionate about building seamless, scalable, and interactive web applications using modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
 
 <h2>🛠️ Skills And Expertises:</h2>
