@@ -19,8 +19,8 @@
  </div>
 </div>
 
-<strong>I'm Jahidul Sany</strong>, <strong>Software Engineer and Cloud Architect 👨‍💻</strong> based in <strong>England, UK</strong>.
-I’m a Software Engineer passionate about building seamless, scalable, and interactive web applications using modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
+<strong>I'm Jahidul Sany...</strong> <br><br>
+A <strong>Software Engineer and Cloud Architect 👨‍💻</strong> passionate about building seamless, scalable, and interactive web applications using modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
 
 <h2>🛠️ Skills And Expertises:</h2>
 <p align="left">
@@ -58,5 +58,5 @@ I’m a Software Engineer passionate about building seamless, scalable, and inte
 
 - 🌱 I’m currently learning FastAPI and AWS Cloud Technology.
 - 🔭 I’m currently working on several Python Projects with AWS.
-- 🕵️‍♂️ I'm eagerly looking for a web/software developer role
+- 🕵️‍♂️ I'm eagerly looking for a Software Engineer role
 
