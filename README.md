@@ -25,7 +25,7 @@ I’m a Software Engineer passionate about building seamless, scalable, and inte
 <h2>🛠️ Skills And Expertises:</h2>
 <p align="left">
   <a href="https://jahidulsany.co.uk">
-    <img src="https://skillicons.dev/icons?i="git&theme=light,aws,python,js,react,redux,nextjs,expressjs,fastapi" />
+    <img src="https://skillicons.dev/icons?i=git&theme=light,aws,python,js,react,redux,nextjs,expressjs" />
   </a>
 </p>
 
