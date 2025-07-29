@@ -20,13 +20,12 @@
 </div>
 
 <strong>I'm Jahidul Sany</strong>, an aspiring <strong>Fullstack Developer 👨‍💻</strong> based in <strong>England, UK</strong>.
-My expertise lies in creating seamless and interactive web applications using modern technologies. 
-As a front-end enthusiast, I thrive on crafting intuitive and dynamic user interfaces. When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying the scenic beauty of England.
+I’m a Software Engineer passionate about building seamless, scalable, and interactive web applications using modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
 
 <h2>🛠️ Skills And Expertises:</h2>
 <p align="left">
   <a href="https://jahidulsany.co.uk">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,ts,react,redux,nextjs,nodejs,expressjs,mongodb,firebase,figma,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git&theme=light,aws,python,js,react,redux,nextjs,expressjs,fastapi" />
   </a>
 </p>
 
@@ -57,7 +56,7 @@ As a front-end enthusiast, I thrive on crafting intuitive and dynamic user inter
 
 ### 🚀 Current Status:
 
-- 🌱 I’m currently learning Java Spring Boot and AWS Cloud Technology.
-- 🔭 I’m currently working on a Java Project.
+- 🌱 I’m currently learning FastAPI and AWS Cloud Technology.
+- 🔭 I’m currently working on several Python Projects with AWS.
 - 🕵️‍♂️ I'm eagerly looking for a web/software developer role
 
