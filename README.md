@@ -19,7 +19,7 @@
  </div>
 </div>
 
-<strong>I'm Jahidul Sany...</strong> <br><br>
+<h3><strong>I am Jahidul Sany...</strong></h3>
 A <strong>Software Engineer and Cloud Architect 👨‍💻</strong> passionate about designing and delivering seamless, scalable, and interactive applications powered by modern technologies. With strong expertise in Python, JavaScript, and AWS, I enjoy architecting cloud-native solutions and creating intuitive user interfaces that enhance user experience. Beyond coding, I actively explore emerging technologies, contribute to open-source projects, and find inspiration in the scenic landscapes of England.
 
 <h2>🛠️ Skills And Expertises:</h2>
